@@ -40,4 +40,5 @@ If you want to use our detection engine in your own project:
    pip install opencv-python mediapipe numpy customtkinter
 
 **⚖️ License & Contributions**
+
 ​The Open Core of this project is licensed under the MIT License. We welcome contributions to the pose_detector.py logic. See CONTRIBUTING.md for details.
