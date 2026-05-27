@@ -1,6 +1,6 @@
 # 🤝 Contributing to the Hunter Network
 
-We are excited that you want to help improve the Next Level Fitness core engine! 
+We are excited that you want to help improve the Huntery's Eye core engine! 
 
 ## 🛡️ Privacy Policy for Contributors
 By contributing to this repository, you agree to:

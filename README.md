@@ -1,8 +1,8 @@
-# 🎮 Next Level Fitness (Project: Shadow)
+# 🎮 Huntery's Eye (Project: Shadow)
 
 > **"Arise."** Stop working out in the dark. Turn your room into a dungeon and your sweat into XP.
 
-Next Level Fitness is a professional-grade AI fitness coach inspired by the *Solo Leveling* universe. It uses real-time computer vision to monitor your form, count your reps, and rank you from an **E-Rank Hunter** to an **S-Rank Legend**.
+Huntery's Eye is a professional-grade AI fitness coach inspired by the *Solo Leveling* universe. It uses real-time computer vision to monitor your form, count your reps, and rank you from an *[...]*
 
 ---
 

@@ -1,7 +1,7 @@
 # 🧠 Pose Detection Technical Documentation
 
 ## Overview
-Next Level Fitness utilizes **Google MediaPipe Pose** for real-time body tracking. Our engine translates raw visual landmarks into meaningful physical data.
+Huntery's Eye utilizes **Google MediaPipe Pose** for real-time body tracking. Our engine translates raw visual landmarks into meaningful physical data.
 
 ## 📐 How we count reps
 We use a **State Machine** combined with **Angular Trigonometry**.

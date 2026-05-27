@@ -1,5 +1,5 @@
 """
-Next Level Fitness - Standalone Pose Detection Test
+Huntery's Eye - Standalone Pose Detection Test
 This script allows you to test the open-source detection engine directly.
 """
 
@@ -38,7 +38,7 @@ def run_test():
                     cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 255, 255), 2)
 
         # Show the result
-        cv2.imshow('NextLevel Pose Engine - Standalone Test', image)
+        cv2.imshow('Huntery\'s Eye Pose Engine - Standalone Test', image)
 
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
